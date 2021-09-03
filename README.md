@@ -1,5 +1,5 @@
 # IMS-ETG
-## An Inventory Management System using Python
+## An Inventory Management System using Python(Jupyter Notebook)
 
 * Sell_Products.ipynb is the main jupyter notebook file which houses the entire code that interfaces with a customer
 * Add_Products.ipynb works with the seller. When new products are bought into the inventory, they get updated here
