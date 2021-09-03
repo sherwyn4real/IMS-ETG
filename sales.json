@@ -1,1 +1,16 @@
-{"2021-09-02": [{"name": "bread", "id": "191105000", "amount": 40, "quant": 2}, {"name": "Ball Point pen", "id": "191105027", "amount": 200, "quant": 10}, {"name": "lip balm", "id": "191105030", "amount": 150, "quant": 2}, {"name": "Mixed nuts (100 gm)", "id": "191105034", "amount": 195, "quant": 3}, {"name": "Notebook (A4 size)", "id": "191105025", "amount": 160, "quant": 2}, {"name": "Cola (1l)", "id": "191105019", "amount": 20, "quant": 1}, {"name": "Fried Wafers(25 gm)", "id": "191105009", "amount": 100, "quant": 5}]}
+{"2021-09-02": [
+    {"name": "bread", "id": "191105000", "amount": 40, "quant": 2}, 
+    {"name": "Ball Point pen", "id": "191105027", "amount": 200, "quant": 10}, 
+    {"name": "lip balm", "id": "191105030", "amount": 150, "quant": 2}, 
+    {"name": "Mixed nuts (100 gm)", "id": "191105034", "amount": 195, "quant": 3}, 
+    {"name": "Notebook (A4 size)", "id": "191105025", "amount": 160, "quant": 2}, 
+{"name":"Cola (1l)", "id":"191105019", "amount": 20, "quant": 1}, {"name":"Fried Wafers(25 gm)", "id":"191105009", "amount": 100, "quant":5}], 
+ "2021-09-03": [
+     {"name": "Ice Cream (500 ml)", "id": "191105018", "amount": 130, "quant": 2}, 
+                {"name": "Fruit juice (1l)", "id": "191105024", "amount": 360, "quant": 3}, 
+                {"name": "Chocolate Bar(20 gm)", "id": "191105008", "amount": 80, "quant": 4}, 
+                {"name": "Mixed nuts (100 gm)", "id": "191105034", "amount": 325, "quant": 5}, 
+                {"name": "Baked beans (150 gm)", "id": "191105031", "amount": 20, "quant": 1}, 
+                {"name": "Cola (1l)", "id": "191105019", "amount": 40, "quant": 2}, 
+                {"name": "Paneer(500 gm)", "id": "191105003", "amount": 250, "quant": 1}]
+}
