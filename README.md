@@ -43,7 +43,7 @@
 
 
 
-### Finally, if the quantity of a product is needed by a customer, exceeds the the quantity in the inventory, or if a wrong product id is entered by the customer, then they are alerted accordingly:
+### Finally, if the quantity of a product needed by a customer, exceeds the the quantity in the inventory, or if a wrong product id is entered by the customer, then they are alerted accordingly:
 
 ![Screenshot 2021-09-03 231235](https://user-images.githubusercontent.com/62534363/132046279-be597d82-e522-49f1-ba77-58137678081c.png)
 
